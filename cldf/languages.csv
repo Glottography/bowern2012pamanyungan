@@ -1,0 +1,15 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+darl1243,Paakantyi,,-32.7021,142.695,darl1243,,20,language,Pama-Nyungan,languages
+dyir1250,Dyirbal,,-17.4516,145.544,dyir1250,,3,language,Pama-Nyungan,languages
+kalk1246,Kalkatungu,,-21.0,139.5,kalk1246,,7,language,Pama-Nyungan,languages
+maya1280,Mayaguduna,,-18.1147,140.337,maya1280,,14,language,Pama-Nyungan,languages
+muru1266,Muruwari,,-28.9618,146.546,muru1266,,16,language,Pama-Nyungan,languages
+nyun1247,Nyunga,,-33.1199,118.151,nyun1247,,19,language,Pama-Nyungan,languages
+warl1256,Warluwara,,-22.2909,138.738,warl1256,,24,language,Pama-Nyungan,languages
+waru1265,Warumungu,,-20.6479,134.375,waru1265,,25,language,Pama-Nyungan,languages
+wira1262,Wiradhuri,,-34.0742,145.994,wira1262,,2,language,Pama-Nyungan,languages
+yaga1256,Yagara-Jandai,,-27.87647555,152.4602773,yaga1256,,4,language,Pama-Nyungan,languages
+yarl1236,Yarli,,-29.49049805,140.9591946,yarl1236,,27,language,Pama-Nyungan,languages
+yoln1234,Yolngu Sign Language,,-12.283333,136.816667,yoln1234,,28,language,Sign Language,languages
+pama1250,Pama-Nyungan,,,,pama1250,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29,family,,families
+sign1238,Sign Language,,,,sign1238,,28,family,,families
