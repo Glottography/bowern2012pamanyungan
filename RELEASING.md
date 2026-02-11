@@ -25,6 +25,8 @@ cldf validate cldf
 
 ```shell
 cldfbench geojson.validate cldf
+29      valid features
+8       valid speaker areas
 ```
 
 ```shell
@@ -40,3 +42,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | waru1265 | 1.51 | False | 1 |
 | yaga1256 | 0.50 | False | 1 |
 | yarl1236 | 0.00 | True | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_bowern2012pamanyungan.py vX.Y
+```
+and follow the instructions given in the output of the command.
