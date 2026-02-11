@@ -4,5 +4,6 @@
     "description": "The dataset provides non-overlapping speaker areas for major current subgroups of Pama-Nyungan derived from Figure 1 in Bowern and Atkinson 2012.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17333459",
     "citation": "Bowern, Claire & Quentin Atkinson. 2012. Computational phylogenetics and the internal structure of Pama-Nyungan. Language 88. 817-845. doi: 10.2307/23357554."
 }
